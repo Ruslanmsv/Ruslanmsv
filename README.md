@@ -11,10 +11,13 @@ I'm an aspiring Software Engineer, skilled in Front-End and Full-Stack Developme
 
 ### 🏢 Professional Background
 
-Over the past 7+ years, I've gained valuable experience as a Project and Product Manager. Most recently, I spent four years at Yandex Maps as a Product Manager, building user-facing products for web and mobile platforms.
+Over the past 7+ years, I've worked as a Project and Product Manager. Most recently, I spent four years at Yandex Maps as a Product Manager, building user-facing products for web and mobile platforms. You can check my accomplishments at Yandex on my [LinkedIn](https://linkedin.com/in/ruslanmsv/) profile.
 
 ### 🎓 Recent Learning & Development
-I've recently spent a year enhancing my web development knowledge and expanding my technical skill set. I've completed projects from [frontendmentor.io](https://frontendmentor.io/) to build my portfolio, which you can explore in my pinned repositories.
+I've recently spent a year enhancing my web development knowledge and expanding my technical skill set. I assess my web development skills between Junior(++) and Middle level. 
+
+I've completed projects from [frontendmentor.io](https://frontendmentor.io/) to build my portfolio, which you can explore in my pinned repositories. 
+I'm eager to work on more meaningful projects and continue growing as a developer.
 
 ### 📬 Get in Touch
 I'd love to connect and explore opportunities to work together! Feel free to reach out to me via:
