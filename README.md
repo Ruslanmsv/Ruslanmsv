@@ -21,4 +21,5 @@ I'm eager to work on more meaningful projects and continue growing as a develope
 
 ### 📬 Get in Touch
 I'd love to connect and explore opportunities to work together! Feel free to reach out to me via:
+
 [Email](mailto:ruslan.msv@gmail.com) | [LinkedIn](https://linkedin.com/in/ruslanmsv/) | [Twitter](https://twitter.com/ruslanmsv)
